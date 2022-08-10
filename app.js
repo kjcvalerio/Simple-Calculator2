@@ -1,0 +1,1 @@
+function apresentarvalor(n1) {calculadora.screen.value= calculadora.screen.value + n1;}
